@@ -178,7 +178,7 @@ entity.SpecialMobs.UnholyGhast.super.20=Someone just got...extinguished!
 
 
 entity.SpecialMobs.SpecialPigZombie.name=Zombie Pigman
-entity.SpecialMobs.BrutishPigZombie.name=Brutish Zombie Pigman
+entity.SpecialMobs.BrutishPigZombie.name=Bri'ish Zombie Pigman
 entity.SpecialMobs.FishingPigZombie.name=Fishing Zombie Pigman
 entity.SpecialMobs.GiantPigZombie.name=Giant Zombie Pigman
 entity.SpecialMobs.HungryPigZombie.name=Hungry Zombie Pigman
@@ -227,7 +227,7 @@ entity.SpecialMobs.PoisonSilverfish.name=Poison Silverfish
 entity.SpecialMobs.ToughSilverfish.name=Tough Silverfish
 
 entity.SpecialMobs.SpecialSkeleton.name=Skeleton
-entity.SpecialMobs.BrutishSkeleton.name=Brutish Skeleton
+entity.SpecialMobs.BrutishSkeleton.name=Bri'ish Skeleton
 entity.SpecialMobs.FireSkeleton.name=Fire Skeleton
 entity.SpecialMobs.GatlingSkeleton.name=Gatling Skeleton
 entity.SpecialMobs.GiantSkeleton.name=Giant Skeleton
@@ -270,7 +270,7 @@ entity.SpecialMobs.WildsWitch.name=Witch of the Wilds
 entity.SpecialMobs.WindWitch.name=Witch of the Wind
 
 entity.SpecialMobs.SpecialZombie.name=Zombie
-entity.SpecialMobs.BrutishZombie.name=Brutish Zombie
+entity.SpecialMobs.BrutishZombie.name=Bri'ish Zombie
 entity.SpecialMobs.FireZombie.name=Fire Zombie
 entity.SpecialMobs.FishingZombie.name=Fishing Zombie
 entity.SpecialMobs.GiantZombie.name=Giant Zombie
